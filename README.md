@@ -5,7 +5,7 @@
 ```python
 # このプログラムは python3用です。
 # あらかじめ pip install pillow をインストールしておきます。
-form PIL import Image
+from PIL import Image
 import sys
 
 # コマンドライン引数から入力画像と出力画像のファイル名を取得
